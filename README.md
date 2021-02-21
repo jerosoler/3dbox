@@ -3,7 +3,7 @@
 
 [PLAY](https://jerosoler.github.io/3dbox/)
 
-![Demo](https://github.com/jerosoler/3dbox/raw/main/docs/3dbox.png)
+![Demo](https://github.com/jerosoler/3dbox/raw/master/docs/3dbox.png)
 
 ## CDN
 ```html
